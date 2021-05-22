@@ -1,11 +1,11 @@
-@Discord.js-Oneline
+**Discord.js-Oneline**
 ```js
 const Discord = require('discord.js-oneline');
 
 Discord.Oneline("TOKEN", "PREFIX");
 ```
 
-#Command Handler
+**Command Handler**
 ```js
 module.exports.run = async function(client, message, args) {
 //code
@@ -17,7 +17,7 @@ name: "",
 ```
 
 
-#Event Handler
+**Event Handler**
 ```js
 module.exports.run = async function(client, message, args) {
 //code
