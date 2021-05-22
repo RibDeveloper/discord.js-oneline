@@ -1,4 +1,4 @@
-#Discord.js-Oneline
+##Discord.js-Oneline
 ```js
 const Discord = require('discord.js-oneline');
 
